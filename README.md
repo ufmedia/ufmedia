@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello! 👋
 
 ## 🚀 About Me
 I'm a senior web developer with over 20 years of journeying through the fascinating world of web technologies. I bring ideas to fruition, believing firmly that code is not just syntax but an art form. Open-source advocate, problem-solver, and eternal student of the ever changing development landscape.
